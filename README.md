@@ -5,7 +5,7 @@ A modern and interactive To-Do List application built using React, Tailwind CSS,
 ---
 
 ## 🌐 Live Demo
-(Add your deployed link here)
+https://todo-app-indol-ten-34.vercel.app/
 
 ---
 
@@ -57,6 +57,8 @@ npm install
 ## Run the project
 npm run dev
 
+---
+
 ## 📌 Key Learnings
 
 - Managing state effectively in React  
@@ -65,13 +67,16 @@ npm run dev
 - Tailwind styling  
 - LocalStorage usage  
 
+
+---
+
+
 ## 🚀 Future Improvements
 
 - Task priority  
 - Due dates  
 - Theme toggle  
 - Backend integration
-
 
 ---
 
