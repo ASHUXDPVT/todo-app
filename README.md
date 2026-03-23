@@ -1,16 +1,92 @@
-# React + Vite
+# 🚀 To-Do App (React + Tailwind + Drag & Drop)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and interactive To-Do List application built using **React**, **Tailwind CSS**, and **Drag & Drop functionality**.  
+This project focuses on clean UI, smooth user experience, and efficient state management.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Features
 
-## React Compiler
+- ✅ Add, Edit, Delete Tasks  
+- ✅ Mark tasks as Completed / Undo  
+- ✅ Filter Tasks (All / Active / Completed)  
+- ✅ Drag & Drop Reordering  
+- ✅ Persistent Storage (LocalStorage)  
+- ✅ Responsive & Clean UI  
+- ✅ Smooth hover & interaction effects  
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ⚛️ React (Vite)
+- 🎨 Tailwind CSS
+- 📦 @hello-pangea/dnd (Drag & Drop)
+- 💾 LocalStorage
+
+---
+
+## 📂 Project Structure
+src/
+├── components/
+│ ├── TaskInput.jsx
+│ ├── TaskList.jsx
+│ ├── TaskItem.jsx
+│ └── Filter.jsx
+├── App.jsx
+├── main.jsx
+└── index.css
+
+
+---
+
+## ⚙️ Installation & Setup
+
+Clone the repository:
+
+```bash
+- git clone https://github.com/ASHUXDPVT/todo-app.git
+- cd todo-app
+
+
+---
+
+## Install dependencies:
+
+- npm install
+
+- Run the project:
+
+- npm run dev
+
+
+---
+
+##  📌 Key Learnings
+- Managing state effectively in React
+- Component-based architecture
+- Implementing Drag & Drop interactions
+- Using Tailwind CSS for rapid UI development
+- Handling persistent data with LocalStorage
+
+
+
+---
+
+## 🚀 Future Improvements
+🔹 Add task priority (High / Medium / Low)
+🔹 Add due dates & reminders
+🔹 Add dark/light theme toggle
+🔹 Backend integration (Firebase / Node.js)
+
+---
+
+## 👨‍💻 Author
+
+Ashutosh PANDEY
+BCA (AI & Data Science)
+
+
+## ⭐ If you like this project
+
+## Give it a star ⭐ on GitHub!
