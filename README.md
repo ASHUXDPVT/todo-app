@@ -1,92 +1,87 @@
 # 🚀 To-Do App (React + Tailwind + Drag & Drop)
 
-A modern and interactive To-Do List application built using **React**, **Tailwind CSS**, and **Drag & Drop functionality**.  
-This project focuses on clean UI, smooth user experience, and efficient state management.
+A modern and interactive To-Do List application built using React, Tailwind CSS, and Drag & Drop functionality.
+
+---
+
+## 🌐 Live Demo
+(Add your deployed link here)
 
 ---
 
 ## ✨ Features
 
-- ✅ Add, Edit, Delete Tasks  
-- ✅ Mark tasks as Completed / Undo  
-- ✅ Filter Tasks (All / Active / Completed)  
-- ✅ Drag & Drop Reordering  
-- ✅ Persistent Storage (LocalStorage)  
-- ✅ Responsive & Clean UI  
-- ✅ Smooth hover & interaction effects  
+- Add, Edit, Delete Tasks  
+- Mark tasks as Completed / Undo  
+- Filter Tasks (All / Active / Completed)  
+- Drag & Drop Reordering  
+- Persistent Storage (LocalStorage)  
+- Responsive UI  
 
 ---
 
 ## 🛠️ Tech Stack
 
-- ⚛️ React (Vite)
-- 🎨 Tailwind CSS
-- 📦 @hello-pangea/dnd (Drag & Drop)
-- 💾 LocalStorage
+- React (Vite)  
+- Tailwind CSS  
+- @hello-pangea/dnd  
+- LocalStorage  
 
 ---
 
 ## 📂 Project Structure
-src/
-├── components/
-│ ├── TaskInput.jsx
-│ ├── TaskList.jsx
-│ ├── TaskItem.jsx
-│ └── Filter.jsx
-├── App.jsx
-├── main.jsx
-└── index.css
 
+    src/
+     ├── components/
+     │   ├── TaskInput.jsx
+     │   ├── TaskList.jsx
+     │   ├── TaskItem.jsx
+     │   └── Filter.jsx
+     ├── App.jsx
+     ├── main.jsx
+     └── index.css
 
 ---
 
 ## ⚙️ Installation & Setup
 
-Clone the repository:
+### Clone the repository
 
 ```bash
-- git clone https://github.com/ASHUXDPVT/todo-app.git
-- cd todo-app
+git clone https://github.com/ASHUXDPVT/todo-app.git
+cd todo-app
 
+## Install dependencies
+npm install
 
----
+## Run the project
+npm run dev
 
-## Install dependencies:
+## 📌 Key Learnings
 
-- npm install
-
-- Run the project:
-
-- npm run dev
-
-
----
-
-##  📌 Key Learnings
-- Managing state effectively in React
-- Component-based architecture
-- Implementing Drag & Drop interactions
-- Using Tailwind CSS for rapid UI development
-- Handling persistent data with LocalStorage
-
-
-
----
+- Managing state effectively in React  
+- Component-based design  
+- Drag & Drop interactions  
+- Tailwind styling  
+- LocalStorage usage  
 
 ## 🚀 Future Improvements
-🔹 Add task priority (High / Medium / Low)
-🔹 Add due dates & reminders
-🔹 Add dark/light theme toggle
-🔹 Backend integration (Firebase / Node.js)
+
+- Task priority  
+- Due dates  
+- Theme toggle  
+- Backend integration
+
 
 ---
 
 ## 👨‍💻 Author
 
-Ashutosh PANDEY
-BCA (AI & Data Science)
+- Ashutosh Pandey
+BCA (AI & Data Science) 
 
+
+---
 
 ## ⭐ If you like this project
-
-## Give it a star ⭐ on GitHub!
+Give it a star ⭐ on GitHub!
