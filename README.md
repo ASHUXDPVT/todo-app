@@ -55,7 +55,7 @@ cd todo-app
 npm install
 
 ## Run the project
-npm run dev ```
+npm run dev
 
 ---
 
